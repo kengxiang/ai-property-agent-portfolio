@@ -74,4 +74,4 @@ See all eight [browser screenshots](assets/README.md), including the staff dashb
 
 ## License
 
-No open-source license has been applied. MIT is proposed for owner-approved project material. [Proposed licensing scope](docs/LICENSE_REVIEW.md)
+This repository is publicly available for portfolio demonstration. The project has no open-source license. Third-party components retain their respective terms. [Licensing details](docs/LICENSE_REVIEW.md)

@@ -2,7 +2,7 @@
 
 This candidate contains 134 files. The inventory includes application modules, Compose setup, migrations, tests, synthetic fixtures, benchmark aggregates, English docs and genuine sanitized screenshots.
 
-Excluded materials include development Git history, internal handoff files, private environment configuration, real customer records, backup exports, raw evaluation runs, operational logs, cache files and model weights. The public terms for project-owned material remain subject to owner approval.
+Excluded materials include development Git history, internal handoff files, private environment configuration, real customer records, backup exports, raw evaluation runs, operational logs, cache files and model weights. The owner approved public portfolio publication without an open-source license.
 
 ```text
 .dockerignore
