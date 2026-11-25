@@ -1,0 +1,25 @@
+property_id,name,location_code,display_location,property_type,price_myr,bedrooms,bathrooms,mrt_distance_m,availability_status,description
+P001,KL Central Residence,KUALA_LUMPUR,Kuala Lumpur,CONDO,550000,3,2,500,AVAILABLE,Modern condominium near public transport
+P002,KL Skyline Suites,KUALA_LUMPUR,Kuala Lumpur,CONDO,620000,3,2,300,AVAILABLE,High floor condominium with city views
+P003,Metro Garden Condo,KUALA_LUMPUR,Kuala Lumpur,CONDO,600000,2,2,800,AVAILABLE,Condominium with family facilities
+P004,City View Apartment,KUALA_LUMPUR,Kuala Lumpur,APARTMENT,400000,2,1,600,AVAILABLE,Affordable apartment near transit
+P005,KL Premium Residence,KUALA_LUMPUR,Kuala Lumpur,CONDO,590000,3,2,900,RESERVED,Condominium with swimming pool
+P006,KL Garden House,KUALA_LUMPUR,Kuala Lumpur,LANDED,980000,4,3,,AVAILABLE,Spacious family terrace house
+P007,Urban Living Condo,KUALA_LUMPUR,Kuala Lumpur,CONDO,450000,2,2,,AVAILABLE,Compact condominium for young professionals
+P008,KL Luxury Heights,KUALA_LUMPUR,Kuala Lumpur,CONDO,720000,3,2,450,AVAILABLE,Luxury condominium near shopping centre
+P009,KL Budget Apartment,KUALA_LUMPUR,Kuala Lumpur,APARTMENT,280000,2,1,1200,AVAILABLE,Budget apartment in established neighbourhood
+P010,Central Park Condo,KUALA_LUMPUR,Kuala Lumpur,CONDO,580000,3,2,750,AVAILABLE,Residential condominium near a park
+P011,KL Riverside Condo,KUALA_LUMPUR,Kuala Lumpur,CONDO,650000,3,2,650,SOLD,Riverside condominium with shared facilities
+P012,KL Family Residence,KUALA_LUMPUR,Kuala Lumpur,LANDED,850000,4,3,,AVAILABLE,Family home with private parking
+P013,Petaling Jaya Condo,SELANGOR,Selangor,CONDO,480000,3,2,700,AVAILABLE,Condominium close to retail shops
+P014,Subang Apartment,SELANGOR,Selangor,APARTMENT,320000,2,1,1100,AVAILABLE,Affordable apartment in Subang area
+P015,Shah Alam Family Home,SELANGOR,Selangor,LANDED,680000,4,3,,AVAILABLE,Terrace house in quiet residential area
+P016,Damansara Heights Condo,SELANGOR,Selangor,CONDO,780000,3,2,400,AVAILABLE,Modern condominium with gym facilities
+P017,Puchong Lake Condo,SELANGOR,Selangor,CONDO,530000,3,2,950,AVAILABLE,Condominium near recreational lake
+P018,Cyberjaya Studio,SELANGOR,Selangor,APARTMENT,250000,1,1,1500,RESERVED,Studio apartment for working professionals
+P019,JB City Residence,JOHOR_BAHRU,Johor Bahru,CONDO,420000,2,2,,AVAILABLE,Condominium near city centre
+P020,JB Waterfront Suites,JOHOR_BAHRU,Johor Bahru,CONDO,650000,3,2,,AVAILABLE,Waterfront condominium with leisure facilities
+P021,Skudai Family House,JOHOR_BAHRU,Johor Bahru,LANDED,580000,4,3,,AVAILABLE,Family terrace house in Skudai
+P022,JB Affordable Apartment,JOHOR_BAHRU,Johor Bahru,APARTMENT,220000,2,1,,AVAILABLE,Affordable apartment for small families
+P023,Iskandar Puteri Condo,JOHOR_BAHRU,Johor Bahru,CONDO,720000,3,2,,AVAILABLE,Modern condominium in Iskandar Puteri
+P024,JB Garden Residence,JOHOR_BAHRU,Johor Bahru,LANDED,850000,4,3,,SOLD,Spacious landed property with garden

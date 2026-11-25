@@ -1,0 +1,80 @@
+{
+  "provider": "cloud",
+  "backend_container": "synthetic-test-backend",
+  "dataset_sha256": "139d1a29daf751d33ce12fc4180f850bcedf74fdab58713c708457ff0eba1049",
+  "mode": "smoke",
+  "runs": [
+    {
+      "id": "BASIC",
+      "error": null,
+      "response": {
+        "answer": "Synthetic reply",
+        "tool_calls": [],
+        "sources": []
+      }
+    },
+    {
+      "id": "P3-10",
+      "error": null,
+      "response": {
+        "answer": "P001",
+        "tool_calls": [
+          {
+            "name": "search_properties",
+            "args": {
+              "location": "KL",
+              "property_type": "CONDO",
+              "min_price": 540000,
+              "max_price": 570000,
+              "near_mrt": true
+            }
+          }
+        ],
+        "sources": []
+      },
+      "replayed_search_ids": [
+        "P001"
+      ]
+    },
+    {
+      "id": "P3-17",
+      "error": null,
+      "response": {
+        "answer": "RM220,000",
+        "tool_calls": [
+          {
+            "name": "get_property_details",
+            "args": {
+              "property_id": "P022"
+            }
+          }
+        ],
+        "sources": []
+      }
+    },
+    {
+      "id": "P3-31",
+      "error": null,
+      "response": {
+        "answer": "Written approval required. P001_house_rules.pdf page 1.",
+        "tool_calls": [],
+        "sources": [
+          {
+            "document_id": "DOC002",
+            "property_id": "P001",
+            "page": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "P3-39",
+      "error": null,
+      "response": {
+        "answer": "I cannot confirm the pet policy.",
+        "tool_calls": [],
+        "sources": []
+      }
+    }
+  ]
+}

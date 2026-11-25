@@ -1,0 +1,28 @@
+# Git
+.git/
+.github/
+
+# Python environments
+.venv/
+venv/
+
+# Python caches
+**/__pycache__/
+**/*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+secrets/
+
+# Generated vector indexes
+rag/storage/
+
+# Development-only files
+tests/
+
+# Logs and model weights
+*.log
+*.gguf
+*.safetensors

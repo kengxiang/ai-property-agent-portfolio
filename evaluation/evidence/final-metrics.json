@@ -1,0 +1,366 @@
+{
+  "qwen-run-1": {
+    "answer_accuracy": {
+      "numerator": 44,
+      "denominator": 44,
+      "value": 1.0
+    },
+    "cases": 44,
+    "error_rate": {
+      "numerator": 0,
+      "denominator": 44,
+      "value": 0.0
+    },
+    "objective_pass": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "task_success": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "pending_semantic_reviews": 0,
+    "tool_selection": {
+      "numerator": 41,
+      "denominator": 42,
+      "value": 0.9762
+    },
+    "tool_arguments": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "property_precision": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "property_recall": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "retrieval_hit": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "retrieval_recall": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "returned_source_validity": {
+      "numerator": 12,
+      "denominator": 12,
+      "value": 1.0
+    },
+    "answer_citation_coverage": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "rag_grounding_reviewed": {
+      "numerator": 11,
+      "denominator": 11,
+      "value": 1.0
+    },
+    "no_answer_reviewed": {
+      "numerator": 7,
+      "denominator": 7,
+      "value": 1.0
+    },
+    "unsupported_claims_reviewed": {
+      "numerator": 0,
+      "denominator": 30,
+      "value": 0.0
+    },
+    "client_latency_ms": {
+      "sample_size": 44,
+      "mean": 4665.26,
+      "p50": 3948.52,
+      "p95": 8123.47
+    },
+    "api_latency_ms": {
+      "sample_size": 44,
+      "mean": 4660.81,
+      "p50": 3943.22,
+      "p95": 8119.2
+    }
+  },
+  "qwen-run-2": {
+    "answer_accuracy": {
+      "numerator": 44,
+      "denominator": 44,
+      "value": 1.0
+    },
+    "cases": 44,
+    "error_rate": {
+      "numerator": 0,
+      "denominator": 44,
+      "value": 0.0
+    },
+    "objective_pass": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "task_success": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "pending_semantic_reviews": 0,
+    "tool_selection": {
+      "numerator": 41,
+      "denominator": 42,
+      "value": 0.9762
+    },
+    "tool_arguments": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "property_precision": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "property_recall": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "retrieval_hit": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "retrieval_recall": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "returned_source_validity": {
+      "numerator": 12,
+      "denominator": 12,
+      "value": 1.0
+    },
+    "answer_citation_coverage": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "rag_grounding_reviewed": {
+      "numerator": 11,
+      "denominator": 11,
+      "value": 1.0
+    },
+    "no_answer_reviewed": {
+      "numerator": 7,
+      "denominator": 7,
+      "value": 1.0
+    },
+    "unsupported_claims_reviewed": {
+      "numerator": 0,
+      "denominator": 30,
+      "value": 0.0
+    },
+    "client_latency_ms": {
+      "sample_size": 44,
+      "mean": 4682.89,
+      "p50": 3812.32,
+      "p95": 8383.62
+    },
+    "api_latency_ms": {
+      "sample_size": 44,
+      "mean": 4678.52,
+      "p50": 3807.93,
+      "p95": 8378.3
+    }
+  },
+  "qwen-run-3": {
+    "answer_accuracy": {
+      "numerator": 44,
+      "denominator": 44,
+      "value": 1.0
+    },
+    "cases": 44,
+    "error_rate": {
+      "numerator": 0,
+      "denominator": 44,
+      "value": 0.0
+    },
+    "objective_pass": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "task_success": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "pending_semantic_reviews": 0,
+    "tool_selection": {
+      "numerator": 41,
+      "denominator": 42,
+      "value": 0.9762
+    },
+    "tool_arguments": {
+      "numerator": 43,
+      "denominator": 44,
+      "value": 0.9773
+    },
+    "property_precision": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "property_recall": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "retrieval_hit": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "retrieval_recall": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "returned_source_validity": {
+      "numerator": 12,
+      "denominator": 12,
+      "value": 1.0
+    },
+    "answer_citation_coverage": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "rag_grounding_reviewed": {
+      "numerator": 11,
+      "denominator": 11,
+      "value": 1.0
+    },
+    "no_answer_reviewed": {
+      "numerator": 7,
+      "denominator": 7,
+      "value": 1.0
+    },
+    "unsupported_claims_reviewed": {
+      "numerator": 0,
+      "denominator": 30,
+      "value": 0.0
+    },
+    "client_latency_ms": {
+      "sample_size": 44,
+      "mean": 4672.74,
+      "p50": 3756.52,
+      "p95": 8214.14
+    },
+    "api_latency_ms": {
+      "sample_size": 44,
+      "mean": 4668.44,
+      "p50": 3752.28,
+      "p95": 8210.32
+    }
+  },
+  "gemini-resumed-final": {
+    "answer_accuracy": {
+      "numerator": 44,
+      "denominator": 44,
+      "value": 1.0
+    },
+    "cases": 44,
+    "error_rate": {
+      "numerator": 0,
+      "denominator": 44,
+      "value": 0.0
+    },
+    "objective_pass": {
+      "numerator": 41,
+      "denominator": 44,
+      "value": 0.9318
+    },
+    "task_success": {
+      "numerator": 41,
+      "denominator": 44,
+      "value": 0.9318
+    },
+    "pending_semantic_reviews": 0,
+    "tool_selection": {
+      "numerator": 39,
+      "denominator": 42,
+      "value": 0.9286
+    },
+    "tool_arguments": {
+      "numerator": 41,
+      "denominator": 44,
+      "value": 0.9318
+    },
+    "property_precision": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "property_recall": {
+      "numerator": 28,
+      "denominator": 28,
+      "value": 1.0
+    },
+    "retrieval_hit": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "retrieval_recall": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "returned_source_validity": {
+      "numerator": 12,
+      "denominator": 12,
+      "value": 1.0
+    },
+    "answer_citation_coverage": {
+      "numerator": 8,
+      "denominator": 8,
+      "value": 1.0
+    },
+    "rag_grounding_reviewed": {
+      "numerator": 11,
+      "denominator": 11,
+      "value": 1.0
+    },
+    "no_answer_reviewed": {
+      "numerator": 7,
+      "denominator": 7,
+      "value": 1.0
+    },
+    "unsupported_claims_reviewed": {
+      "numerator": 0,
+      "denominator": 30,
+      "value": 0.0
+    },
+    "client_latency_ms": {
+      "sample_size": 44,
+      "mean": 7520.91,
+      "p50": 7664.83,
+      "p95": 14439.15
+    },
+    "api_latency_ms": {
+      "sample_size": 44,
+      "mean": 7490.82,
+      "p50": 7635.65,
+      "p95": 14406.6
+    }
+  }
+}

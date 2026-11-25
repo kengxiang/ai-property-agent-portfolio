@@ -1,0 +1,59 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Local RAG embeddings and indexes
+rag/storage/
+
+# Local LLM model files
+*.gguf
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated RAG index
+/rag/storage/*.npz
+/rag/storage/*.json
+
+# Local database and workflow backup exports
+/backups/
+/backup/
+*.dump
+*.backup
+*.bak
+*.sql.gz
+
+# Locally generated model evaluation output
+/evaluation/results/

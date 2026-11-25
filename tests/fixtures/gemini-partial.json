@@ -1,0 +1,106 @@
+{
+  "provider": "cloud",
+  "backend_container": "synthetic-test-backend",
+  "dataset_sha256": "139d1a29daf751d33ce12fc4180f850bcedf74fdab58713c708457ff0eba1049",
+  "mode": "benchmark",
+  "started_at": "2000-01-01T00:00:00Z",
+  "planned_cases": 44,
+  "runs": [
+    {
+      "id": "P3-01",
+      "error": null
+    },
+    {
+      "id": "P3-02",
+      "error": null
+    },
+    {
+      "id": "P3-03",
+      "error": null
+    },
+    {
+      "id": "P3-04",
+      "error": null
+    },
+    {
+      "id": "P3-05",
+      "error": null
+    },
+    {
+      "id": "P3-06",
+      "error": null
+    },
+    {
+      "id": "P3-07",
+      "error": null
+    },
+    {
+      "id": "P3-08",
+      "error": null
+    },
+    {
+      "id": "P3-09",
+      "error": null
+    },
+    {
+      "id": "P3-10",
+      "error": null
+    },
+    {
+      "id": "P3-11",
+      "error": null
+    },
+    {
+      "id": "P3-12",
+      "error": null
+    },
+    {
+      "id": "P3-13",
+      "error": null
+    },
+    {
+      "id": "P3-14",
+      "error": null
+    },
+    {
+      "id": "P3-15",
+      "error": null
+    },
+    {
+      "id": "P3-16",
+      "error": "provider_error"
+    },
+    {
+      "id": "P3-17",
+      "error": null
+    },
+    {
+      "id": "P3-18",
+      "error": null
+    },
+    {
+      "id": "P3-19",
+      "error": null
+    },
+    {
+      "id": "P3-20",
+      "error": null
+    },
+    {
+      "id": "P3-21",
+      "error": null
+    },
+    {
+      "id": "P3-22",
+      "error": null
+    },
+    {
+      "id": "P3-23",
+      "error": null
+    },
+    {
+      "id": "P3-24",
+      "error": "rate_limit"
+    }
+  ]
+}

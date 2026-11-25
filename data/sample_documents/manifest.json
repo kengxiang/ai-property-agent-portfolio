@@ -1,0 +1,32 @@
+[
+  {
+    "document_id": "DOC001",
+    "property_id": "P001",
+    "filename": "P001_brochure.pdf"
+  },
+  {
+    "document_id": "DOC002",
+    "property_id": "P001",
+    "filename": "P001_house_rules.pdf"
+  },
+  {
+    "document_id": "DOC003",
+    "property_id": "P002",
+    "filename": "P002_house_rules.pdf"
+  },
+  {
+    "document_id": "DOC004",
+    "property_id": "P003",
+    "filename": "P003_brochure.pdf"
+  },
+  {
+    "document_id": "DOC005",
+    "property_id": "P010",
+    "filename": "P010_house_rules.pdf"
+  },
+  {
+    "document_id": "DOC006",
+    "property_id": null,
+    "filename": "general_faq.pdf"
+  }
+]
